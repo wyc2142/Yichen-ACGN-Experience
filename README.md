@@ -19,30 +19,23 @@
 | 塞尔达传说 王国之泪 | Switch | 2025-01-20 | 9.5/10 | 创造力驱动的史诗 |
 | 星露谷物语 | Switch | 2024-12-05 | 9/10 | 种田养老，精神时光屋 |
 
-## 📂 游戏详细记录示例
-每一款游戏都包含独立的 `.md` 文件，例如 `games/Elden-Ring.md`：
-
-```markdown
----
-title: "艾尔登法环"
-platform: ["PC (Steam)"]
-developer: "FromSoftware"
-publisher: "Bandai Namco"
-start_date: "2024-11-10"
-finish_date: "2025-02-10"
-status: "已完成"
-rating: 9.8
-hours_played: 135
----
-
-## 🎯 我的里程碑
-- [x] 打败恶兆妖鬼
-- [x] 击败碎星拉塔恩
-- [x] 进入王城罗德尔
-- [x] 完成主线结局（群星时代）
-
-## 📝 游戏日志节选
-### 2024-11-15
-被大树守卫教育了两个小时……这就是魂系欢迎方式吗？  
-### 2025-02-10
-最终战演奏厅太震撼了。135小时，白金奖杯到手，感谢宫崎英高。
+## 📂 游戏详细记录
+GameDiary/
+├── README.md                 # 项目主页，展示全貌
+├── _templates/               # 记录模板
+│   └── game-log-template.md
+├── platform/                 # 按平台分类
+│   ├── PC/
+│   ├── Nintendo Switch/
+│   ├── PlayStation/
+│   └── Mobile/
+├── games/                    # 按游戏名存储详细日志
+│   ├── Elden-Ring.md
+│   ├── The-Legend-of-Zelda-BotW.md
+│   ├── Hollow-Knight.md
+│   └── ...
+├── scripts/                  # 可选：自动化生成统计图表
+│   └── generate_stats.py
+├── stats/                    # 生成的统计数据（JSON/图片）
+└── .github/workflows/        # 可选：GitHub Actions 自动更新
+    └── update_readme.yml
