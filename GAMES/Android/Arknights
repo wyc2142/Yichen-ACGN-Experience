@@ -1,26 +1,26 @@
 ---
 # 基本信息
 title: "明日方舟"
-platform: ["平台1", "平台2"]   # 例如：PC (Steam), Nintendo Switch, PlayStation 5, Xbox, iOS, Android
-developer: "开发商"
-publisher: "发行商"
-release_date: "发行日期 (YYYY-MM-DD)"
+platform: [PC, Android]   # 例如：PC (Steam), Nintendo Switch, PlayStation 5, Xbox, iOS, Android
+developer: "Hypergraph"
+publisher: "Hypergraph"
+release_date: "2019-5-1"
 
 # 个人游玩信息
-start_date: "开始日期 (YYYY-MM-DD)"
-finish_date: "完成日期 (YYYY-MM-DD，未完成可留空)"
-status: "进行中 / 已完成 / 弃坑 / 搁置"
-hours_played: 0    # 总游戏时间（小时，可以是小数）
-rating: 0          # 个人评分（0-10，允许一位小数）
+start_date: "2019-5-15"
+finish_date: ""
+status: "进行中"
+hours_played: 3000+    # 总游戏时间（小时，可以是小数）
+rating: 9.5          # 个人评分（0-10，允许一位小数）
 
 # 可选标签
-genre: ["类型1", "类型2"]   # 例如：动作、角色扮演、解谜、模拟经营
-tags: []                   # 自定义标签，如“多周目”“全成就”“联机”
+genre: [塔防, 二次元]   # 例如：动作、角色扮演、解谜、模拟经营
+tags: [二次元]                   # 自定义标签，如“多周目”“全成就”“联机”
 ---
 
 # 《明日方舟》
 
-> 一句话短评或推荐语（可选）
+> 夯
 
 ## 🎯 游玩里程碑（可选）
 - [ ] 开始游戏
