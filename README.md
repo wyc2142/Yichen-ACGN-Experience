@@ -1,4 +1,4 @@
-# Yichen-ACGN-Experience# 🎮 GameDiary – 我的游戏旅程档案
+# Yichen-ACGN-Experience# 🎮我的游戏/二次元档案
 
 > 一个用 **Markdown + Git** 维护的跨平台游戏记录仓库  
 > 自 202X 年起，记录了我在 PC、Switch、PS、手机等平台的游戏历程
