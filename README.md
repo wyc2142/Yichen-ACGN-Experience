@@ -20,22 +20,4 @@
 | 星露谷物语 | Switch | 2024-12-05 | 9/10 | 种田养老，精神时光屋 |
 
 ## 📂 游戏详细记录
-GameDiary/
-├── README.md                 # 项目主页，展示全貌
-├── _templates/               # 记录模板
-│   └── game-log-template.md
-├── platform/                 # 按平台分类
-│   ├── PC/
-│   ├── Nintendo Switch/
-│   ├── PlayStation/
-│   └── Mobile/
-├── games/                    # 按游戏名存储详细日志
-│   ├── Elden-Ring.md
-│   ├── The-Legend-of-Zelda-BotW.md
-│   ├── Hollow-Knight.md
-│   └── ...
-├── scripts/                  # 可选：自动化生成统计图表
-│   └── generate_stats.py
-├── stats/                    # 生成的统计数据（JSON/图片）
-└── .github/workflows/        # 可选：GitHub Actions 自动更新
-    └── update_readme.yml
+
