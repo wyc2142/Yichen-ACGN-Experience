@@ -28,7 +28,7 @@
 
 | 平台 | 游戏数 |
 |------|--------|
-| PC (Steam) | 0 |
-| PlayStation | 0 |
-| Mobile | 0 |
+| PC (Steam) | 24 |
+| PlayStation | 12 |
+| Mobile | 6 |
 
