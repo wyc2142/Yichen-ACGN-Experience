@@ -1,7 +1,7 @@
 ---
 # 基本信息
 title: "Among Us"
-platform: ["平台1", "平台2"]   # 例如：PC (Steam), Nintendo Switch, PlayStation 5, Xbox, iOS, Android
+platform: [PC] 
 developer: "开发商"
 publisher: "发行商"
 release_date: "发行日期 (YYYY-MM-DD)"
@@ -9,7 +9,7 @@ release_date: "发行日期 (YYYY-MM-DD)"
 # 个人游玩信息
 start_date: "开始日期 (YYYY-MM-DD)"
 finish_date: "完成日期 (YYYY-MM-DD，未完成可留空)"
-status: "进行中 / 已完成 / 弃坑 / 搁置"
+status: "弃坑"
 hours_played: 48.6    # 总游戏时间（小时，可以是小数）
 rating: 8          # 个人评分（0-10，允许一位小数）
 
