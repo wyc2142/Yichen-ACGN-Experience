@@ -1,6 +1,6 @@
 ---
 # 基本信息
-title: "Apex Legend"
+title: "Apex Legends"
 platform: [PC]   # 例如：PC (Steam), Nintendo Switch, PlayStation 5, Xbox, iOS, Android
 developer: "开发商"
 publisher: "发行商"
